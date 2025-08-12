@@ -1,0 +1,61 @@
+html {
+    background-color: gray;
+}
+
+.page-title {
+    color: white;
+    font-family:monospace;
+    font-size: 50px;
+}
+
+.what-label {
+    color: white;
+    font-family:monospace;
+    font-size: 25px;
+}
+
+.why-label {
+    color: white;
+    font-family:monospace;
+    font-size: 25px;
+}
+
+.so-label {
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.or-label {
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.what {
+    padding: 0px 0px 10px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.why {
+    padding: 0px 0px 10px;
+    color: white;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.so {
+    padding: 0px 0px 10px;
+    color: white;
+    font-family: cursive;
+    font-size: 15px
+}
+
+.or {
+    padding: 0px 0px 10px;
+    color: white;
+    font-family: cursive;
+    font-size: 15px
+}
